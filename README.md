@@ -8,4 +8,4 @@ The R script uses the following packages:
 - [loadeR](https://github.com/SantanderMetGroup/loadeR) to load the NetCDF in a smart way
 - [tidyverse](https://www.tidyverse.org/) for all the rest
 
-
+The ERA5 data can be downloaded freely from the [C3S Climate Data Store](https://cds.climate.copernicus.eu/#!/home).
